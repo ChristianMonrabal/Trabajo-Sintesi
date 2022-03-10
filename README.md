@@ -18,4 +18,4 @@
 - No se podrá repartir una cosa para cada integrante, es decir, se tendrán que hacer todas las tareas en conjunto, no podrá hacer cada uno un trabajo.
 
 # PLANIFICACIÓN:
-(Enlace)[https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0]
+[Enlace](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0)
