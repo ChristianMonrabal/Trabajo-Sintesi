@@ -1,4 +1,4 @@
-# Trabajo-Sintesi
+## Trabajo-Sintesi
 # CONTRATO DE COMPROMISO:
 
 - Si algún integrante falla, tienes como máximo tres avisos para justificar las faltas, si falta un cuarto día, se echará del grupo avisando anteriormente al profesor por las faltas repetitivas.
