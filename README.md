@@ -16,3 +16,6 @@
 - Al final de cada día de trabajo se tendrá que demostrar que cada integrante del grupo ha hecho la parte que le corresponde, sino puede demostrarlo (porque no lo ha hecho) será amonestado y se avisará al profesor, al cuarto aviso se le echará del grupo. 
 
 - No se podrá repartir una cosa para cada integrante, es decir, se tendrán que hacer todas las tareas en conjunto, no podrá hacer cada uno un trabajo.
+
+# PLANIFICACIÓN:
+(Enlace)[https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0]
