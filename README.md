@@ -17,7 +17,7 @@
 
 - No se podrá repartir una cosa para cada integrante, es decir, se tendrán que hacer todas las tareas en conjunto, no podrá hacer cada uno un trabajo.
 
-#AVISOS y PENALIZACIONES:
+# AVISOS y PENALIZACIONES:
 - 1 aviso: 1 Amonestación
 - 2 aviso: 2 Amonestación
 - 3 aviso: 3 Amonestación y se le comunicara al profesor o tutor
