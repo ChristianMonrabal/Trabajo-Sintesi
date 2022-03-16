@@ -23,7 +23,7 @@
 - 3 aviso: 3 Amonestación y se le comunicara al profesor o tutor
 - 4 aviso: 4 Amonestación y como consecuencia se debatira echar del grupo a esa persona
 # PLANIFICACIÓN:
-[Planificación](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0)
+[Planificación] Excel(https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0)
 # Diseño WEB:
 ## En movil:
 
