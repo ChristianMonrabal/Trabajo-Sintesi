@@ -25,7 +25,7 @@
 # PLANIFICACIÓN Y DOCUMENTACIÓN:
 [Planificación](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0)
 #
-[Scrum Daily]([Planificación](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0))
+[Scrum Daily](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0))
 # Diseño WEB:
 ## En movil:
 
