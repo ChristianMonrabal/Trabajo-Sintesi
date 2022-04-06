@@ -24,6 +24,7 @@
 - 4 aviso: 4 Amonestación y como consecuencia se debatira echar del grupo a esa persona
 # PLANIFICACIÓN Y DOCUMENTACIÓN:
 [Planificación](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0)
+[Scrum Daily]([Planificación](https://docs.google.com/spreadsheets/d/1ZBfIVZEro1jMn3BGq30skruG--p65PpvAKz6rQaW12E/edit#gid=0))
 # Diseño WEB:
 ## En movil:
 
